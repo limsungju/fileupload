@@ -11,7 +11,7 @@
 
 	<label>email:</label>
 	<input type="text" name="email" value="kickscar@gmail.com">
-	<br><br>
+	<br><br>+
 	
 	<label>파일1:</label>
 	<input type="file" name="file1">
